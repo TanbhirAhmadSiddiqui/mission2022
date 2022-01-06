@@ -32,6 +32,9 @@ header{
     width: 50%;
     padding-top: 150px;
 }
+.border{
+    border-left: 5px solid #ff5959;
+}
 .focused h1{
     font-size: 70px;
     font-family: 'Roboto', sans-serif;
@@ -85,4 +88,102 @@ header{
     background-color: #fff4d6;
     border-radius: 7%;
     padding: 3%;
+}
+
+
+
+.develop{
+    width: 80%;
+    display: flex;
+    padding-top: 100px;
+}
+.develop-img{
+    width: 40%;
+}
+.develop-img img{
+    width: 100%;
+}
+.develop-text{
+    width: 60%;
+    
+}
+.develop-text-padding{
+    padding: 5% 0 5% 5%;
+}
+.develop-text h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+}
+.develop-text p{
+    padding-top: 35px;
+    padding-bottom: 22px;
+}
+.know-padding{
+    padding: 5% 5% 5% 0 ;
+}
+.info{
+    width: 80%;
+    display: flex;
+    padding-top: 100px;
+}
+.spadding{
+    padding: 10px 0 ;
+}
+.register{
+    padding: 5%;
+
+    border-radius: 0;
+    padding-left: 12%;
+}
+.youName{
+    font-size: 20px;
+    padding: 8px 0;
+    width: 40%;
+}
+.email-password{
+    width: 81.2%;
+    font-size: 20px;
+    padding: 8px 0;
+}
+
+
+
+.radio-checkbox{
+    width: 100%;
+    display: flex;
+
+}
+.gender{
+    width: 50%;
+}
+.subject{
+    width: 50%;
+}
+.font-size{
+    font-size: 25px;
+}
+.submit{
+    width: 82%;
+    margin: 25px 0;
+}
+
+.futter{
+    width: 100%;
+    text-align: center;
+    background-color: #0b0d17;
+    color: white;
+}
+.s-color{
+    color: #ff5959;
+}
+.futter div{
+    padding: 50px;
+}
+.futter h1{
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+}
+.futter p{
+    font-size: 20px;
+    font-family: fantasy;
 }
