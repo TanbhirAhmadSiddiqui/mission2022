@@ -112,7 +112,7 @@ header{
 }
 .develop-text h1{
     font-family: 'Roboto', sans-serif;
-    font-size: 45px;
+    font-size: 45px;   
 }
 .develop-text p{
     padding-top: 35px;
@@ -186,4 +186,14 @@ font-family: 'Times New Roman', Times, serif;
 .futter p{
     font-size: 20px;
     font-family: fantasy;
+}
+.position{
+    position: absolute;
+    right: 0;
+    top: 133%;
+}
+.position1{
+    position: absolute;
+    left: 0;
+    top: 200%;
 }
